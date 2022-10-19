@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C programming
 - 💞️ I’m looking to collaborate on anything really lmao
 - 📫 Reach me on Twitter
-- I'm hoestly still learning but I'll get there one day for sure
+- I'm honestly still learning but I'll get there one day for sure
 
 <!---
 MarieLisah/MarieLisah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
